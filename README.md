@@ -2,7 +2,8 @@
 
 <!--
   <<< Author notes: Course header >>>
-  Include a 1280x640 image, course title in sentence case, and a concise description in emphasis.
+  ![image](https://github.com/JyotiBB/skills-hello-github-actions/assets/44950040/c6a0396a-d0f4-49f7-9251-71c6d763c2c5)
+Include a 1280x640 image, course title in sentence case, and a concise description in emphasis.
   In your repository settings: enable template repository, add your 1280x640 social image, auto delete head branches.
   Add your open source license, GitHub uses MIT license.
 -->
